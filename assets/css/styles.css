@@ -11443,6 +11443,7 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
+  margin-left: 17rem;
 }
 
 @media (min-width: 768px) {
